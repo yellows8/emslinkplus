@@ -1,0 +1,1 @@
+This is a libusb tool originally from 2012 for NDS Adapter Plus(Linux/Mac/...). This tool won't be supported/updated because the author hasn't had a working NDS Adapter Plus for years. Unless you want to read CTRCARD cardIDs etc, you should probably just use the tool linked from the official site since it handles the protocol better.
